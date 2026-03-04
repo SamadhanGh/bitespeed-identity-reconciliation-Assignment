@@ -1,4 +1,4 @@
-package com.samadhan.identity.services;
+package com.samadhan.identity.service;
 
 import com.samadhan.identity.dto.IdentifyRequest;
 import com.samadhan.identity.dto.IdentifyResponse;
